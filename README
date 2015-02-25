@@ -1,0 +1,6 @@
+This is a simple timetable generation software.
+
+The user will create rooms, teachers, subjects, students and student groups. 
+The students will be put into groups, and the groups will be assigned classes.
+
+The work of this software is to automatically generate a conflict free timetable.
